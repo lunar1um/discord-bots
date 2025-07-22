@@ -1,0 +1,9 @@
+[submodule "Britishify"]
+	path = Britishify
+	url = https://github.com/lunar1um/Britishify
+[submodule "Contradictor"]
+	path = Contradictor
+	url = https://github.com/lunar1um/Contradictor
+[submodule "ReplyJudge"]
+	path = ReplyJudge
+	url = https://github.com/lunar1um/ReplyJudge
